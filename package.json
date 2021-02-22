@@ -1,0 +1,14 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "Sudoku app?",
+  "main": "index.js",
+  "author": "Andrew J. Peterson",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "rxjs": "^6.6.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.5"
+  }
+}
