@@ -1,3 +1,5 @@
+a few ideas... no real code here
+
 
 # design/build
 
